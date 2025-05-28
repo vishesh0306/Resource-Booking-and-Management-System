@@ -1,4 +1,4 @@
-package dao;
+package com.abes.rms.dao;
 
 public class RoomDAO {
 

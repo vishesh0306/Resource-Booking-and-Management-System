@@ -1,6 +1,6 @@
-package rms.dao;
+package com.abes.rms.dao;
 
-import rms.dto.ResourceMan;
+import com.abes.rms.dto.ResourceMan;
 
 public interface ManagerDAO {
 	public boolean addUser(String id, String pass, String name, String email);

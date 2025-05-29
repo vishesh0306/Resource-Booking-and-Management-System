@@ -1,7 +1,7 @@
-package rms;
+package com.abes.rms;
 
 import java.util.*; 
-import rms.controller.*;
+import com.abes.rms.controller.*;
 
 public class App 
 {

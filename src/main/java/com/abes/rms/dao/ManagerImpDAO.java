@@ -1,7 +1,7 @@
-package rms.dao;
+package com.abes.rms.dao;
 
-import rms.dto.*; 
-import rms.util.CollectionsUtil;
+import com.abes.rms.dto.*; 
+import com.abes.rms.util.CollectionsUtil;
 
 public class ManagerImpDAO implements ManagerDAO{
 	@Override

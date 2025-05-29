@@ -1,5 +1,5 @@
 package com.abes.rms.dao;
 
-public class RoomDAO {
+public class RoomImpDAO {
 
 }

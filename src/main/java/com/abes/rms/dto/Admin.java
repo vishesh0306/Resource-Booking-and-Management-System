@@ -1,4 +1,4 @@
-package rms.dto;
+package com.abes.rms.dto;
 
 
 @SuppressWarnings("resource")

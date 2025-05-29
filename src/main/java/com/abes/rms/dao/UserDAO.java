@@ -1,5 +1,5 @@
-package rms.dao;
-import rms.dto.*;
+package com.abes.rms.dao;
+import com.abes.rms.dto.*;
 
 public interface UserDAO {
 	public boolean addUser(String id, String pass, String name, String email);

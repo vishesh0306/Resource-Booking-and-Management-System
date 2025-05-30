@@ -1,11 +1,11 @@
-package rms.service;
+package com.abes.rms.service;
 
 import java.util.ArrayList;
 
-import rms.dao.*;
-import rms.dto.Admin;
-import rms.dto.Booking;
-import rms.dto.RegularUser;
+import com.abes.rms.dao.*;
+import com.abes.rms.dto.Admin;
+import com.abes.rms.dto.Booking;
+import com.abes.rms.dto.RegularUser;
 
 public class AdminService {
 	AdminImpDAO adminObj = new AdminImpDAO();

@@ -2,7 +2,7 @@ package com.abes.rms.dto;
 
 import java.util.Objects;
 
-import rms.dao.RoomImpDAO;
+import com.abes.rms.dao.RoomImpDAO;
 
 public class Room {
 	private int count = 0;

@@ -2,9 +2,9 @@ package com.abes.rms.dao;
 
 import java.util.ArrayList;
 
-import rms.dto.Admin;
-import rms.dto.RegularUser;
-import rms.util.CollectionsUtil;
+import com.abes.rms.dto.Admin;
+import com.abes.rms.dto.RegularUser;
+import com.abes.rms.util.CollectionsUtil;
 
 public class AdminImpDAO implements AdminDAO{
 

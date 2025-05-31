@@ -3,7 +3,7 @@ package com.abes.rms.controller;
 import java.util.*; 
 import com.abes.rms.App;
 import com.abes.rms.dto.*;
-import com.abes.rms.service.*;
+import com.abes.rms.services.*;
 import com.abes.rms.util.*;
 
 public class UserController {

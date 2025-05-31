@@ -2,8 +2,8 @@ package com.abes.rms.dao;
 
 import java.util.ArrayList;
 
-import rms.dto.Admin;
-import rms.dto.RegularUser;
+import com.abes.rms.dto.Admin;
+import com.abes.rms.dto.RegularUser;
 
 public interface AdminDAO {
 	public boolean isAdminPresent(String userID, String pass);
